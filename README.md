@@ -6,6 +6,6 @@
 <br/>
 <div>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cevitaufik&theme=github_dark&hide=jupyter%20notebook" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cevitaufik&theme=github_dark&hide=jupyter,css%20notebook" />
   </a>
 </div>
