@@ -1,6 +1,6 @@
 <div>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cevitaufik&show_icons=true&theme=github_dark&count_private=true&rank_icon=github" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cevitaufik&show_icons=true&theme=github_dark&count_private=true&rank_icon=github&hide=contribs" />
   </a>
 </div>
 <br/>
