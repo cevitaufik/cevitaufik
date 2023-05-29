@@ -10,7 +10,5 @@
   </a>
 </div>
 <div>
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cevitaufik&theme=github_dark&hide=jupyter%20notebook%2Ccss" />
-  </a>
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cevitaufik)](https://github.com/anuraghazra/github-readme-stats)
 </div>
