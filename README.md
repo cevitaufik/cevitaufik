@@ -1,18 +1,16 @@
 <div>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cevitaufik&show_icons=true&theme=github_dark&count_private=true&rank_icon=github&hide=contribs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cevitaufik&theme=dark&show_icons=true&hide_border=true&count_private=true" />
   </a>
 </div>
 <br/>
 <div>
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cevitaufik&theme=github_dark&hide=jupyter%20notebook%2Ccss" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cevitaufik&theme=dark&hide_border=true" />
   </a>
 </div>
 <div>
   <a href="#">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cevitaufik&theme=vue-dark&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cevitaufik&theme=dark&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </div>
-![cevitaufik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cevitaufik&theme=vue-dark&hide_border=true)
-
