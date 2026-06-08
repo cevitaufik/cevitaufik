@@ -18,7 +18,3 @@ Kebanyakan saya main di **PHP (Laravel)** dan **JavaScript/TypeScript** — biki
 - **Front-end:** JavaScript
 - **Tools:** Vite, Bun
 - **Database:** MySQL, Firebird
-
-**📫 Mau ngobrol?**
-
-- 📧 Email: cevitaufik@gmail.com
