@@ -1,17 +1,3 @@
 <div>
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cevitaufik&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-</div>
-<br/>
-<div>
-  <a href="#">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cevitaufik&theme=dark&hide_border=true" />
-  </a>
-</div>
-<br/>
-<div>
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cevitaufik&theme=dark&show_icons=true&hide_border=true&layout=compact" />
-  </a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cevitaufik&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 </div>
