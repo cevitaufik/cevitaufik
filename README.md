@@ -4,8 +4,7 @@
   
 ---
 
-Ini versi dalam bentuk mentah markdown (raw) yang bisa langsung kamu salin-tempel ke README.md:
-markdown## 👋 Sekilas Tentang Saya
+## 👋 Sekilas Tentang Saya
 
 Hai, saya Cevi Taufik, seorang web developer dari Jawa Barat. Saya suka ngoprek dan bikin aplikasi web, dan masih terus belajar sambil jalan.
 
